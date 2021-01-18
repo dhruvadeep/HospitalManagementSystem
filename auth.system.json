@@ -1,0 +1,18 @@
+[
+    {
+        "type": "ADMIN",
+        "pass": 12345
+    },
+    {
+        "type": "DOCTOR",
+        "pass": 98765
+    },
+    {
+        "type": "PATIENTS",
+        "pass": 13579
+    },
+    {
+        "type": "DEFAULT",
+        "pass": 13579
+    }
+]
